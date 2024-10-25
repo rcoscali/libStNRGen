@@ -25,5 +25,8 @@
 #ifndef __LIBSTNRGEN_H__
 #ifndef __LIBSTNRGEN_H__
 
+#include "libstnrgen/charstat.h"
+#include "libstnrgen/wordstat.h"
+#include "libstnrgen/reportgen.h"
 
 #endif /* !__LIBSTNRGEN_H__ */
