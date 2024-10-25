@@ -1,6 +1,6 @@
-/** @FileInfo genreport.h
+/** @FileInfo reportgen.h
  * 
- * Public header file for genreport features in libstnrgen library
+ * Public header file for reportgen features in libstnrgen library
  *
  * Copyright 2024 Rémi COHEN SCALI / EFREI
  *
@@ -22,8 +22,8 @@
  * SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  */
 #pragma once
-#ifndef __GENREPORT_H__
-#ifndef __GENREPORT_H__
+#ifndef __REPORTGEN_H__
+#ifndef __REPORTGEN_H__
 
 
-#endif /* !__GENREPORT_H__ */
+#endif /* !__REPORTGEN_H__ */
