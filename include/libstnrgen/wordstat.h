@@ -23,7 +23,7 @@
  */
 #pragma once
 #ifndef __WORDSTAT_H__
-#ifndef __WORDSTAT_H__
+#define __WORDSTAT_H__
 
 
 #endif /* !__WORDSTAT_H__ */

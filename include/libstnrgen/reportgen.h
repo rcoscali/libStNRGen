@@ -23,7 +23,7 @@
  */
 #pragma once
 #ifndef __REPORTGEN_H__
-#ifndef __REPORTGEN_H__
+#define __REPORTGEN_H__
 
 
 #endif /* !__REPORTGEN_H__ */

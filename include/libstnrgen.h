@@ -23,7 +23,7 @@
  */
 #pragma once
 #ifndef __LIBSTNRGEN_H__
-#ifndef __LIBSTNRGEN_H__
+#define __LIBSTNRGEN_H__
 
 #include "libstnrgen/charstat.h"
 #include "libstnrgen/wordstat.h"

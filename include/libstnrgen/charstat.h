@@ -23,7 +23,7 @@
  */
 #pragma once
 #ifndef __CHARSTAT_H__
-#ifndef __CHARSTAT_H__
+#define __CHARSTAT_H__
 
 
 #endif /* !__CHARSTAT_H__ */
