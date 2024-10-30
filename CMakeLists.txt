@@ -10,3 +10,6 @@ add_library(StNRGen SHARED
             src/libstnrgen.c)
 add_library(StNRGen_a STATIC
             src/libstnrgen.c)
+
+install(TARGETS StNRGen
+        DESTINATION ${TOP_BINARY_DIR})
